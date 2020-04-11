@@ -190,8 +190,6 @@ public class Snake {
             next = null;
             pre = null;
         }
-
-
         //画点
         public void drawNode(Graphics g) {
             Color color = g.getColor();

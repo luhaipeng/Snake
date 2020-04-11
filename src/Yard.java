@@ -95,7 +95,7 @@ public class Yard extends Frame {
                 //重新画
                 repaint();
                 try {
-                    Thread.sleep(200);
+                    Thread.sleep(100);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
